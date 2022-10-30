@@ -2,6 +2,9 @@
 
 Python code of asymptotic performance prediction for ADMM (Alternating Direction Method of Multipliers)-based compressed sensing
 
+Demo code:  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rhayakawa/predict-admm-cs/blob/main/demo.ipynb)
+
 ![figure](./code/figure/example_MSE_vs_iteration.png)
 
 ## Author
