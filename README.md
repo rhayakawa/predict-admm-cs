@@ -1,8 +1,8 @@
 # predict-admm-cs
 
-Python code for asymptotic performance prediction for ADMM (Alternating Direction Method of Multipliers)-based compressed sensing
+Python code of asymptotic performance prediction for ADMM (Alternating Direction Method of Multipliers)-based compressed sensing
 
-[![figure](./code/figure/example_MSE_vs_iteration.png)]
+![figure](./code/figure/example_MSE_vs_iteration.png)
 
 ## Author
 
