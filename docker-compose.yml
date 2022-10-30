@@ -1,0 +1,10 @@
+services:
+    predict-admm-cs:
+        restart: always
+        build: .
+        image: 'image_predict-admm-cs'
+        container_name: 'container_predict-admm-cs'
+        working_dir: '/usr/src'
+        tty: true
+        volumes:
+            - ./code:/usr/src

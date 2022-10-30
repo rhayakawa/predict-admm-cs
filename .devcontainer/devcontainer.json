@@ -1,0 +1,13 @@
+{
+    "name": "predict-admm-cs",
+    "dockerComposeFile": "../docker-compose.yml",
+    "settings": {
+        "python.pythonPath": "/usr/local/bin/python"
+    },
+    "extensions": [
+        "ms-python.python",
+		"njpwerner.autodocstring"
+    ],
+    "service": "predict-admm-cs",
+    "workspaceFolder": "/usr/src"
+}
