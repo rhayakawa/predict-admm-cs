@@ -9,7 +9,7 @@ Demo code:
 
 ## Author
 
-[Ryo Hayakawa](https://rhayakawa.github.io/index-e.html) (e-mail: hayakawa.ryo.es [at] osaka-u.ac.jp)
+[Ryo Hayakawa](https://rhayakawa.github.io/index-e.html)
 
 ## Article
 
